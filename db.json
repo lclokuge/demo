@@ -1,3 +1,5 @@
-{ "Username": "user", "Password": "123" }
-
+{
+  "User":
+   { "Username": "user", "Password": "123" }
+}
 
